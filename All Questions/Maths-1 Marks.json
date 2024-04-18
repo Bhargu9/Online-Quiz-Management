@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc0cd"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc01d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc02d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc03d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc04d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc05d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc06d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612806e262fc2298c2bc07d"
+  },
+  "options": "1,2,3,4",
+  "status": true,
+  "body": "A train travels at a constant speed of 60 km/h for 3 hours. How far does the train travel?",
+  "explanation": null,
+  "subject": {
+    "$oid": "6616827c7ac63e5624c6b89c"
+  },
+  "marks": 1,
+  "answer": "180",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T11:15:58.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T13:46:40.567Z"
+  },
+  "__v": 0
+}
+]

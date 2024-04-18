@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "161649f42ed908358c1ed346"
+  },
+  "options": [
+    "5 m",
+    "10 m,",
+    "15 m",
+    "20 m"
+  ],
+  "status": true,
+  "body": "A ball is thrown vertically upwards at a speed of 10 m/s. What is the maximum height reached by the ball? (Ignore air resistance)",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "10 m,",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T08:12:36.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T08:12:36.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "261638f72ed908358c1ed352"
+  },
+  "options": [
+    "2 W",
+    "4 W",
+    "10 W",
+    "20 W"
+  ],
+  "status": true,
+  "body": "A current of 2 A flows through a resistor of 10 Ω. What is the power dissipated in the resistor?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "20 W",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "361638f72ed908358c1ed351"
+  },
+  "options": [
+    "Constructive interference",
+    "Destructive interference",
+    "Diffraction",
+    "Polarization"
+  ],
+  "status": true,
+  "body": "Two waves with the same frequency interfere with each other. If the crest of one wave overlaps with the trough of another wave, what type of interference occurs?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "Destructive interference",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "461638f72ed908358c1ed343"
+  },
+  "options": [
+    "Virtual",
+    "upright",
+    "magnified",
+    "All of these"
+  ],
+  "status": true,
+  "body": "An object is placed 10 cm in front of a converging lens with a focal length of 15 cm. What is the image formed by the lens?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "All of these",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "561638f72ed908358c1ed344"
+  },
+  "options": [
+    "Virtual",
+    " diminished ",
+    "None of this",
+    "Virtual, diminished, and behind the focal point"
+  ],
+  "status": true,
+  "body": "A convex mirror has a focal length of 12 cm. An object is placed 20 cm in front of the mirror. What is the nature and location of the image formed?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "Virtual, diminished, and behind the focal point",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "761638f72ed908358c1ed345"
+  },
+  "options": [
+    "Increases by a factor of 2",
+    "Decreases by a factor of 2",
+    "Stays the same",
+    "Depends on the initial pressure"
+  ],
+  "status": true,
+  "body": "An ideal gas undergoes an isothermal process. If the volume of the gas increases by a factor of 2, what happens to the pressure of the gas?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "Decreases by a factor of 2",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "861638f72ed908358c1ed346"
+  },
+  "options": [
+    "v",
+    "2v",
+    "4v",
+    "8v"
+  ],
+  "status": true,
+  "body": "A car accelerates from rest to a speed of v in time t. If the car were to accelerate for a time of 2t, what would be its final speed?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "2v",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "961638f72ed908358c1ed347"
+  },
+  "options": [
+    "Between the lens and its focal point",
+    "At the focal point",
+    "Beyond the focal point for a converging lens and between the focal point for a diverging lens",
+    "Beyond the focal point for both converging and diverging lenses"
+  ],
+  "status": true,
+  "body": "A lens can form a real image only when the object is placed:",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "Beyond the focal point for a converging lens and between the focal point for a diverging lens",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "061638f72ed908358c1ed348"
+  },
+  "options": [
+    "Light can eject electrons from a metal surface",
+    "The energy of the ejected electron depends on the frequency of the light",
+    "The intensity of the light determines the number of ejected electrons",
+    "The color of the light determines the work function of the metal"
+  ],
+  "status": true,
+  "body": "Which of the following phenomena is NOT explained by the photoelectric effect?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "The color of the light determines the work function of the metal",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "461638f72ed908358c1ed349"
+  },
+  "options": [
+    "T is halved",
+    "T remains the same",
+    "T is doubled",
+    "T increases by a factor greater than 2"
+  ],
+  "status": true,
+  "body": "A simple pendulum with a mass of m and a length of l oscillates with a period of T. If the mass of the bob is doubled, what happens to the period?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 2,
+  "answer": "T increases by a factor greater than 2",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

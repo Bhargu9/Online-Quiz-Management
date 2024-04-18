@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "661644162ed908358c1ed342"
+  },
+  "options": [
+    "4",
+    "-3",
+    "8",
+    "12"
+  ],
+  "status": true,
+  "body": "The characteristic equation of a 2x2 matrix A is det(A - λI) = (λ - 1)(λ - 4). If the trace of A is 5, what is the determinant of A?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661cce9b1e37a00770ab2713"
+  },
+  "marks": 4,
+  "answer": "4",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T07:47:33.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T07:47:33.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed978358c1ed352"
+  },
+  "options": [
+    "a_n = 2(3^(n-1)) - 1",
+    "a_n = (2/3^(n-1)) - 1",
+    "a_n = 3^n - 2",
+    "a_n = (3^(n-1)) + 2"
+  ],
+  "status": true,
+  "body": "A sequence is defined recursively by a_1 = 2 and a_n = 3a_(n-1) - 1. What is the explicit formula for the sequence?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "a_n = 2(3^(n-1)) - 1",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c2ed351"
+  },
+  "options": [
+    "8/3",
+    "5",
+    "3",
+    "10"
+  ],
+  "status": true,
+  "body": "Evaluate the double integral: ∫∫ (x^2 + y^2) dA over the region R defined by 0 ≤ x ≤ 1 and 0 ≤ y ≤ 2. ",
+  "explanation": null,
+  "subject": {
+    "$oid": "661cce9b1e37a00770ab2713"
+  },
+  "marks": 4,
+  "answer": "5",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661648f72ed908358c1ed343"
+  },
+  "options": [
+    "1",
+    "3",
+    "0",
+    "None of these"
+  ],
+  "status": true,
+  "body": "Laplace transform of f(t) = t^2 sin(2t) is:",
+  "explanation": "Laplace transform of t^2 sin(2t) doesn't have a closed form solution",
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "None of these",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed907358c1ed344"
+  },
+  "options": [
+    "g is strictly increasing",
+    "g is continuous",
+    "g is strictly decreasing",
+    "g is constant"
+  ],
+  "status": true,
+  "body": "If f(x) is continuous on [a, b] and strictly increasing, then what can be said about the function g(x) = ∫^b_a f(t) dt?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "g is strictly increasing",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ad908358c1ed345"
+  },
+  "options": [
+    "π",
+    "1/π",
+    "π/4",
+    "1"
+  ],
+  "status": true,
+  "body": "The probability that a random point lies inside a unit circle centered at the origin is:",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "π/4",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c9ed346"
+  },
+  "options": [
+    "(2x + 1)/(x - 1)",
+    "(x - 2)/(x + 1)",
+    "(-x - 1)/(x - 2)",
+    "No inverse exists"
+  ],
+  "status": true,
+  "body": "Find the inverse function of f(x) = (x - 1)/(x + 2).",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "(x - 2)/(x + 1)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662638f72ed908358c1ed347"
+  },
+  "options": [
+    "3",
+    "1",
+    "1/2",
+    "-2"
+  ],
+  "status": true,
+  "body": "The line y = mx + c passes through the points (1, 2) and (3, 5). What is the slope m?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "3",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661738f72ed908358c1ed348"
+  },
+  "options": [
+    "4i + 6j",
+    "2i + 3j",
+    "6i + 3j",
+    "4i + 3j"
+  ],
+  "status": true,
+  "body": "The position vector of a moving particle is given by r(t) = (t^2)i + (3t - 1)j. What is the particle's acceleration at time t = 2?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "6i + 3j",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "561638f72ed908358c1ed349"
+  },
+  "options": [
+    "5/16",
+    "10/32",
+    "1/2",
+    "3/8"
+  ],
+  "status": true,
+  "body": "If a fair coin is tossed 5 times, what is the probability of getting exactly 2 heads?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 4,
+  "answer": "10/32",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

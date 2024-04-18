@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "661650322ed908358c0ed441"
+  },
+  "options": [
+    "6 Pa",
+    "12 Pa",
+    "18 Pa",
+    "24 Pa"
+  ],
+  "status": true,
+  "body": "A soap bubble with a radius of 0.01 m is inflated slowly. If the surface tension of the soap film is 0.03 N/m, what is the minimum pressure difference across the film needed to inflate the bubble?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "12 Pa",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T08:39:14.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T08:39:14.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c2ed442"
+  },
+  "options": [
+    "0 m/s²",
+    "2 m/s²",
+    "-2 m/s²",
+    "-4 m/s²"
+  ],
+  "status": true,
+  "body": "A particle moves along a straight line with a position function x(t) = t^2 - 4t + 3. What is the particle's acceleration at time t = 2 seconds?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "-2 m/s²",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c3ed443"
+  },
+  "options": [
+    "0.01 s",
+    "0.1 s",
+    "1 s",
+    "10 s"
+  ],
+  "status": true,
+  "body": "A circuit consists of a resistor of 10 Ω and a capacitor of 1 μF connected in series to a battery with an emf of 12 V. What is the time constant (τ) of the circuit?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "0.01 s ",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c4ed444"
+  },
+  "options": [
+    "(1/3)ML²",
+    "(1/4)ML²",
+    "(1/6)ML²",
+    "(1/12)ML²"
+  ],
+  "status": true,
+  "body": "A uniform cylindrical rod with mass M and length L is pivoted about one end. What is the moment of inertia of the rod about the pivot point?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "(1/3)ML²",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c5ed445"
+  },
+  "options": [
+    "18.4°",
+    "21.8°",
+    "26.6°",
+    "33.2°"
+  ],
+  "status": true,
+  "body": "A beam of light travels from air (n = 1) into a block of glass (n = 1.5). If the angle of incidence in air is 30 degrees, what is the angle of refraction in the glass?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "18.4°",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c6ed446"
+  },
+  "options": [
+    "ΔV = kQ(1/r₁ - 1/r₂)",
+    "ΔV = kQ / (r₁r₂)",
+    "ΔV = kQln(r₂/r₁)",
+    "ΔV = KE / (r₁ + r₂)"
+  ],
+  "status": true,
+  "body": "A point charge Q creates an electric field with a magnitude E at a distance r. What is the potential difference (ΔV) between two points located at distances r₁ and r₂ from the charge?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "ΔV = kQ(1/r₁ - 1/r₂)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c7ed477"
+  },
+  "options": [
+    "(1/2)Mv²",
+    "(3/2)Mv²",
+    "(5/2)Mv²",
+    "(7/2)Mv²"
+  ],
+  "status": true,
+  "body": "A uniform disc with radius R and mass M rolls without slipping on a horizontal surface. The disc's center of mass has a linear speed of v. What is the total kinetic energy of the disc?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "(1/2)Mv²",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c8ed448"
+  },
+  "options": [
+    "The source is moving backword",
+    "The source is moving towards the observer",
+    "The source is not moving",
+    "None of the above"
+  ],
+  "status": true,
+  "body": "A Doppler effect occurs when the source of a wave and the observer are in relative motion. If a stationary observer detects a sound wave with a frequency higher than the source frequency, what is the relative motion between the source and observer?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "The source is moving towards the observer",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c9ed449"
+  },
+  "options": [
+    "3.4 eV",
+    "6.8 eV",
+    "10.2 eV",
+    "13.6 eV"
+  ],
+  "status": true,
+  "body": "A hydrogen atom is in its first excited state (n = 2). What is the energy required to ionize the atom (remove the electron completely)?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "13.6 eV",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c0ed450"
+  },
+  "options": [
+    "θ increases with increasing N",
+    "1 increases with increasing N",
+    "θ increases with increasing S",
+    "All of the above"
+  ],
+  "status": true,
+  "body": "A diffraction grating is used to separate different wavelengths of light. How does the number of lines per unit length (N) of the grating affect the angular separation (θ) between two wavelengths of light?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 4,
+  "answer": "θ increases with increasing N",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

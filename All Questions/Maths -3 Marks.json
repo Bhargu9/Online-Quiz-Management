@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "66163ee62ed908358c1ed341"
+  },
+  "options": [
+    "0",
+    "2",
+    "4",
+    "undefined"
+  ],
+  "status": true,
+  "body": "Determine the limit as x approaches 2 of the function (x^2 - 4)/(x - 2).",
+  "explanation": null,
+  "subject": {
+    "$oid": "66127f4e262fc2298c2bc0b8"
+  },
+  "marks": 3,
+  "answer": "4",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T07:25:26.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T07:25:26.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed352"
+  },
+  "options": [
+    "(1/4)x^4 - 2x^2 + 6x + C",
+    "(1/3)x^4 - 2x^2 + 6x + C",
+    "(1/2)x^4 - 4x^2 + 6x + C",
+    "x^4 - 4x + 6x + C"
+  ],
+  "status": true,
+  "body": "Integrate the function f(x) = x^3 - 4x + 6 with respect to x.",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "(1/4)x^4 - 2x^2 + 6x + C",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed351"
+  },
+  "options": [
+    "6e^(2x) - 1/x",
+    "6e^(2x) - x",
+    "3e^(2x) - 1/x",
+    "3e^(2x) - x"
+  ],
+  "status": true,
+  "body": "Calculate the derivative of the function f(x) = 3e^(2x) - ln(x). ",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "6e^(2x) - 1/x",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed343"
+  },
+  "options": [
+    "y = 6x - 9",
+    "y = 6x + 9",
+    "y = 3x - 9",
+    "y = 3x + 9"
+  ],
+  "status": true,
+  "body": "Find the equation of the tangent line to the curve y = x^2 at the point where x = 3.",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "y = 6x - 9",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed344"
+  },
+  "options": [
+    "y = 1/(1 - x)",
+    "y = 1/(1 + x)",
+    "y = x/(1 + x)",
+    "y = x/(1 - x)"
+  ],
+  "status": true,
+  "body": "Solve the differential equation dy/dx = y^2 with the initial condition y(0) = 1.",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "y = 1/(1 - x)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed345"
+  },
+  "options": [
+    "4/3",
+    "2/3",
+    "1/3",
+    "1"
+  ],
+  "status": true,
+  "body": "What is the area enclosed by the curve y = x^2 and the lines x = -1, x = 1, and y = 0?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "4/3",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed346"
+  },
+  "options": [
+    "3",
+    "5",
+    "6",
+    "9"
+  ],
+  "status": true,
+  "body": "If a matrix A has eigenvalues 1, 2, and 3, what is the trace of A?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "6",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed347"
+  },
+  "options": [
+    "(4/3)pi r^3",
+    "(1/3)pi r^3",
+    "4pi r^3",
+    "pi r^3"
+  ],
+  "status": true,
+  "body": "What is the volume of a sphere with radius r in terms of pi?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "(4/3)pi r^3",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed348"
+  },
+  "options": [
+    "1",
+    "2",
+    "1/2",
+    "3/2"
+  ],
+  "status": true,
+  "body": "Find the sum of the infinite geometric series 1/2 + 1/4 + 1/8 + ...",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "1",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358c1ed349"
+  },
+  "options": [
+    "x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5",
+    "x^5 + 4x^4y + 6x^3y^2 + 4x^2y^3 + xy^4 + y^5",
+    "x^5 + 3x^4y + 3x^3y^2 + 3x^2y^3 + 3xy^4 + y^5",
+    "x^5 + x^4y + x^3y^2 + x^2y^3 + xy^4 + y^5"
+  ],
+  "status": true,
+  "body": "What is the binomial expansion of (x + y)^5?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 3,
+  "answer": "x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

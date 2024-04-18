@@ -1,0 +1,302 @@
+[{
+  "_id": {
+    "$oid": "3b8c1a2784f6d0b921078cef"
+  },
+  "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "status": true,
+  "body": "What is the slope of the line y = 4x + 2?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661cce9b1e37a00770ab2713"
+  },
+  "marks": 2,
+  "answer": "4",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T07:00:07.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T07:00:07.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638g72ed908358c1ed340"
+  },
+  "options": [
+    "49",
+    "56",
+    "63",
+    "72"
+  ],
+  "status": true,
+  "body": "What is the product of 7 and 8?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661cce9b1e37a00770ab2713"
+  },
+  "marks": 2,
+  "answer": "56",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638f72ed906358c1ed340"
+  },
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "status": true,
+  "body": "If x is directly proportional to y and x = 10 when y = 2, what is the value of y when x = 25?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "5",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638f52ed908358c1ed340"
+  },
+  "options": [
+    "90π cm^3",
+    "270π cm^3",
+    "30π cm^3",
+    "120π cm^3"
+  ],
+  "status": true,
+  "body": "A cylinder has a radius of 3 cm and a height of 10 cm. What is its volume?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "90π cm^3",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638b72ed908358c1ed340"
+  },
+  "options": [
+    [
+      "8",
+      "12",
+      "16",
+      "32"
+    ]
+  ],
+  "status": true,
+  "body": "What is the greatest common divisor (GCD) of 48 and 64?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661cce9b1e37a00770ab2713"
+  },
+  "marks": 2,
+  "answer": "16",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638f72pd908358c1ed340"
+  },
+  "options": [
+    [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  ],
+  "status": true,
+  "body": "Solve for x in the equation 9x - 7 = 11.",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "2",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638f72ed598358c1ed340"
+  },
+  "options": [
+    [
+      "1/6",
+      "1/12",
+      "1/18",
+      "1/36"
+    ]
+  ],
+  "status": true,
+  "body": "What is the probability of rolling a total of 7 with two dice?",
+  "explanation": null,
+  "subject": {
+    "$oid": "p9o8l7k6i5n4t3e2r1"
+  },
+  "marks": 2,
+  "answer": "1/6",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661638w72fd908358c1ed340"
+  },
+  "options": [
+    [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  ],
+  "status": true,
+  "body": "If 5x - 2 = 3x + 6, what is the value of x?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "4",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 661598f72ed908358c1ed340"
+  },
+  "options": [
+    [
+      "0.75",
+      "0.075",
+      "7.5",
+      "0.0075"
+    ]
+  ],
+  "status": true,
+  "body": "Convert 75% to a decimal.",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "0.75",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": " 881638f72ed908358c1ed340"
+  },
+  "options": [
+    [
+      "10",
+      "12",
+      "14",
+      "16"
+    ]
+  ],
+  "status": true,
+  "body": "What is the square root of 144?",
+  "explanation": null,
+  "subject": {
+    "$oid": "63edde56babc341493bdf540"
+  },
+  "marks": 2,
+  "answer": "12",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

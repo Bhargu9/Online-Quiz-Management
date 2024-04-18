@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "61164d132ed908358c1ed347"
+  },
+  "options": [
+    "200 nm",
+    "400 nm",
+    "600 nm",
+    "800 nm"
+  ],
+  "status": true,
+  "body": "A diffraction grating has 5000 slits per centimeter. When monochromatic light is shone on the grating, a second-order maximum is observed at an angle of 30 degrees. What is the wavelength of the light?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "400 nm",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T08:25:55.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T08:25:55.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "621638f72ed908358c1ed352"
+  },
+  "options": [
+    "√(1 - (0.7)^2)",
+    "1 / √(1 - (0.7)^2)",
+    "(0.7)^2",
+    "1 - (0.7)^2"
+  ],
+  "status": true,
+  "body": "A spaceship travels at a constant velocity of 0.7c (where c is the speed of light) relative to an observer on Earth. What is the time dilation factor experienced by the spaceship compared to the observer?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "1 / √(1 - (0.7)^2)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631638f72ed908358c1ed351"
+  },
+  "options": [
+    "1 Rs",
+    "3 Rs",
+    "10 Rs",
+    "30 Rs"
+  ],
+  "status": true,
+  "body": "A black hole has a mass of 10 solar masses (M☉). What is the event horizon radius of this black hole (in terms of the Schwarzschild radius, Rs = 2GM/c²)?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "3 Rs ",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641638f72ed908358c1ed343"
+  },
+  "options": [
+    "-3.4 eV",
+    "-6.8 eV",
+    "-10.2 eV",
+    "-17.0 eV"
+  ],
+  "status": true,
+  "body": "A particle in a quantum well has a ground state energy of -13.6 eV. What is the energy of the first excited state?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "-3.4 eV",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651638f72ed908358c1ed344"
+  },
+  "options": [
+    "Increases slightly",
+    "Decreases slightly",
+    "Completely expelled",
+    "Partially expelled"
+  ],
+  "status": true,
+  "body": "A superconductor exhibits perfect diamagnetism. What happens to the magnetic field inside a superconductor when an external magnetic field is applied?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "Completely expelled",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671638f72ed908358c1ed345"
+  },
+  "options": [
+    "y = dλ / (2L)",
+    "y = λ / (2d)",
+    "y = dλ / L",
+    "y = λL / d"
+  ],
+  "status": true,
+  "body": "In a double-slit experiment, the separation between the slits is d and the distance between the slits and the screen is L. If the path difference between the two waves reaching a minimum on the screen is λ/2 (where λ is the wavelength), what is the expression for the position (y) of this minimum relative to the central maximum?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "y = dλ / (2L)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681638f72ed908358c1ed346"
+  },
+  "options": [
+    "Increases by a factor of 4",
+    "Decreases by a factor of 4",
+    "Increases by a factor of 1/4",
+    "Decreases by a factor of 1/4"
+  ],
+  "status": true,
+  "body": "A gas undergoes an adiabatic process. The pressure of the gas increases by a factor of 4. What is the change in volume of the gas?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "Decreases by a factor of 1/4",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691638f72ed908358c1ed347"
+  },
+  "options": [
+    "h",
+    "h/2π",
+    "hπ",
+    "2hπ"
+  ],
+  "status": true,
+  "body": "The uncertainty principle states that the momentum (p) and position (x) of a particle cannot be known simultaneously with perfect precision. The product of their uncertainties (Δp Δx) is always greater than or equal to what constant?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "h / (4π)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "601638f72ed908358c1ed348"
+  },
+  "options": [
+    "BEC exhibits wave-particle duality",
+    "BEC particles occupy the same quantum state",
+    "BEC has a higher specific heat capacity",
+    "BEC particles have a definite velocity"
+  ],
+  "status": true,
+  "body": "A Bose-Einstein condensate (BEC) is a state of matter formed by bosons at extremely low temperatures. What property distinguishes a BEC from a classical gas?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "BEC particles occupy the same quantum state",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611638f72ed908358c1ed349"
+  },
+  "options": [
+    "Fission splits a heavy nucleus, while fusion combines light nuclei",
+    "Fission releases more energy than fusion",
+    "Fusion requires higher temperatures than fission",
+    "All of the above"
+  ],
+  "status": true,
+  "body": "What is the main difference between nuclear fission and nuclear fusion?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661645fe2ed908358c1ed344"
+  },
+  "marks": 3,
+  "answer": "All of the above",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]

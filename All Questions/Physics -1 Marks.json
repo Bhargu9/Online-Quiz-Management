@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "662646a32ed908358c1ed345"
+  },
+  "options": [
+    "1 m/s²",
+    "2 m/s²",
+    "3 m/s²",
+    "4 m/s²"
+  ],
+  "status": true,
+  "body": "A car accelerates uniformly from rest to a speed of 20 m/s in 5 seconds. What is the car's acceleration?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "4 m/s²",
+  "createdBy": {
+    "$oid": "66127fce262fc2298c2bc0b9"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T07:58:27.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T07:58:27.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661538f72ed908358c1ed352"
+  },
+  "options": [
+    "0.1 A",
+    "0.5 A",
+    "1 A",
+    "5 A"
+  ],
+  "status": true,
+  "body": "A light bulb is rated at 60 W when connected to a 120 V power source. What is the current flowing through the bulb?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "0.5 A",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f73ed908358c1ed351"
+  },
+  "options": [
+    "20 m/s",
+    "40 m/s",
+    "80 m/s",
+    "160 m/s"
+  ],
+  "status": true,
+  "body": "A wave has a frequency of 40 Hz and a wavelength of 2 meters. What is the speed of the wave?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "80 m/s",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed808358c1ed343"
+  },
+  "options": [
+    "Virtual",
+    "upright",
+    "magnified",
+    "All of these"
+  ],
+  "status": true,
+  "body": "An object is placed 10 cm in front of a converging lens with a focal length of 15 cm. What is the image formed by the lens?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "All of these",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908458c1ed344"
+  },
+  "options": [
+    "0.5 atm",
+    "1 atm",
+    "1.5 atm",
+    "2 atm"
+  ],
+  "status": true,
+  "body": "A gas sample initially at a pressure of 1 atm expands at constant temperature to a volume twice its original size. What is the final pressure of the gas?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "0.5 atm",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed928358c1ed345"
+  },
+  "options": [
+    "Work",
+    "Momentum",
+    "Temperature",
+    "Force"
+  ],
+  "status": true,
+  "body": "Which of the following quantities is NOT a vector?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "Temperature",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f42ed908358c1ed346"
+  },
+  "options": [
+    "Speed",
+    "Velocity",
+    "Acceleration",
+    "Kinetic Energy"
+  ],
+  "status": true,
+  "body": "A satellite orbits the Earth at a constant speed. What remains constant during the satellite's motion?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "Speed",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed908358d1ed347"
+  },
+  "options": [
+    "Helium",
+    "Lithium",
+    "Sodium",
+    "Potassium"
+  ],
+  "status": true,
+  "body": "Which of the following elements is a noble gas?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "Helium",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f27ed908358c1ed348"
+  },
+  "options": [
+    "Energy",
+    "Momentum",
+    "Angular Momentum",
+    "All of the above"
+  ],
+  "status": true,
+  "body": "The law of conservation of which quantity states that the total amount of that quantity remains constant in an isolated system?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "All of the above",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661638f72ed208358c1ed349"
+  },
+  "options": [
+    "Newton (N)",
+    "Coulomb (C)",
+    "Volt (V)",
+    "Newton per meter (N/m)"
+  ],
+  "status": true,
+  "body": "What is the unit of electric field intensity?",
+  "explanation": null,
+  "subject": {
+    "$oid": "661ccea91e37a00770ab2714"
+  },
+  "marks": 1,
+  "answer": "Newton per meter (N/m)",
+  "createdBy": {
+    "$oid": "63edde56babc341493bdf541"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T18:39:55.235Z"
+  },
+  "__v": 0
+}]
