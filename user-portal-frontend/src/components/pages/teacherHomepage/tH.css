@@ -1,0 +1,22 @@
+#content {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin-top: 85px;
+    font-size: large;
+}
+
+#image {
+    flex: 0 0 auto; /* Don't grow, don't shrink, based on content size */
+    width: 250px; /* Set the width of the image */
+    height: 250px; /* Set the height of the image */
+    background-image: url('./a1.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px; /* Add some space between the image and text */
+}
+
+#yo{
+    background: linear-gradient(to right,rgb(255, 255, 255) , rgb(192, 238, 253));
+    padding: 64px 20px 64px 10px; /* top right bottom left */
+    border-radius: 2rem;
+}

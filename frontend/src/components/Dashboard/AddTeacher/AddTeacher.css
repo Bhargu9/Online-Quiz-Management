@@ -1,0 +1,21 @@
+.form-class {
+  background-color: white;
+  padding: 50px 100px;
+}
+
+h2, .linkbtn {
+  color:black
+}
+
+#wf{
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #9bbcc8;
+}
+
+#l{
+  padding: 2px;
+
+}
